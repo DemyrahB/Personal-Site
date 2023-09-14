@@ -1,0 +1,38 @@
+.nav {
+    border: solid;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+}
+
+.nav-buttons-group {
+    width: 400px;
+    justify-content: space-evenly;
+}
+
+li {
+    display: inline-block;
+    font-size: 30px;
+    color: white;
+    justify-content: space-between;
+}
+
+.hero {
+    border: solid;
+    height: 50px;
+}
+
+.main-section {
+    border: solid;
+    height: 200px;
+}
+
+footer {
+    border: solid;
+    height: 30px;
+}
+
+h1 {
+    text-align: center;
+}
