@@ -91,3 +91,8 @@ td {
 th {
     font-size: x-large;
 }
+
+footer {
+    text-align: center;
+    border: none;
+}
