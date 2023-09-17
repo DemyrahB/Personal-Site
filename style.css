@@ -78,3 +78,16 @@ div {
 .img4 {
     width: 300px;
 }
+
+td {
+    font-size: 30px;
+}
+
+.img5 {
+    width: 600px;
+    display: flex;
+}
+
+th {
+    font-size: x-large;
+}
