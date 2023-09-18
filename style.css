@@ -38,16 +38,16 @@ body {
 }
 
 .img1 {
-    width: 700px;
-    height: 700px;
+    width: 600px;
+    height: 600px;
     border-radius: 50%;
-    float: right;
+    align-self: center;
     
 }
 
 .quote {
     font-style: oblique;
-    font-size: 100px;
+    font-size: 80px;
     color: white;
     font-weight: bolder;
     width: 1000px;
@@ -62,21 +62,41 @@ div {
 }
 
 .about {
-    font-size: 30px;
-    text-align: center;
+    font-size: 25px;
+    text-align: right;
+    align-items: center;
+}
+
+.aboutr {
+    font-size: 26px;
+    text-align: left;
+    align-items: center;
+}
+
+.about1 {
+    width: 20px;
 }
 
 .img2 {
     width: 300px;
+    height: 300px;
     display: flex;
+    align-self: flex-end;
+    
 }
 
 .img3 {
     width: 350px;
+    height: 320px;
+    display: flex;
+    align-self: center;
 }
 
 .img4 {
     width: 300px;
+    height: 300px;
+    display: flex;
+    align-self: flex-end;
 }
 
 td {
@@ -95,4 +115,13 @@ th {
 footer {
     text-align: center;
     border: none;
+}
+
+p {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.body2 {
+    max-width: 1500px;
 }
