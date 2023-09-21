@@ -1,2 +1,2 @@
 # Personal-Site
-Hi! My name is Demyrah Bivings, I'm 25 years old and I'm an aspiring Web Developer. Here on my Personal Site, you can learn a bit more about me and my life. 
+Hi! My name is Demyrah Bivings, I'm 25 years old and I'm an aspiring Web Developer. I am very new to coding but I'm excited to learn. Please take a look at my Personal Site as I demonstrate a bit of what I've learned so far!

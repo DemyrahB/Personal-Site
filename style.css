@@ -23,7 +23,7 @@ a {
 }
 
 .main-section {
-    border: solid;
+    border: none;
     height: 800px;
 }
 
