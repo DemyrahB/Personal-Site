@@ -7,7 +7,7 @@
 }
 
 .nav-buttons-group {
-    width: 400px;
+    width: 500px;
     display: flex;
     justify-content: space-between;
 }
@@ -124,4 +124,42 @@ p {
 
 .body2 {
     max-width: 1500px;
+}
+
+.body4 {
+    max-width: 100%;
+    
+}
+section {
+    text-align: center;
+}
+
+.name1, .name2, .email, .country, .message {
+    font-size: 30px;
+}
+
+input, select, textarea {
+    width: 700px;
+    padding: 9px;
+    border: 1px solid;
+    box-sizing: border-box;
+    margin-top: 9px;
+}
+
+button {
+    background-color: rgb(235, 146, 11);
+    border-radius: 30%;
+    width: 80px;
+    font-size: large;
+    font-style: oblique;
+    color: whitesmoke;
+    height: 50px;
+}
+
+button:hover {
+    background-color: blue;
+}
+
+::placeholder {
+    color: rgb(120, 107, 107);
 }
