@@ -31,6 +31,10 @@ h1 {
     text-align: center;
 }
 
+h2 {
+    text-align: center;
+}
+
 body {
     background-color: rgb(255, 213, 0);
     max-width: 3000px;
@@ -131,15 +135,15 @@ p {
     
 }
 section {
-    text-align: center;
+    text-align: left;
 }
 
 .name1, .name2, .email, .country, .message {
-    font-size: 30px;
+    font-size: 25px;
 }
 
 input, select, textarea {
-    width: 700px;
+    width: 500px;
     padding: 9px;
     border: 1px solid;
     box-sizing: border-box;
@@ -162,4 +166,10 @@ button:hover {
 
 ::placeholder {
     color: rgb(120, 107, 107);
+}
+
+.last {
+    border: none;
+    height: 10vh;
+    text-align: center;
 }
